@@ -1,0 +1,13 @@
+h1, h2 {
+    font-family: 'Arial';
+    color: #000;
+    font-size: 50px;
+}
+
+.OnHand {
+    background-color: rgb(118, 252, 118);
+}
+
+.NotOnHand {
+    background-color: rgb(245, 145, 145);
+}
